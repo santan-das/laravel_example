@@ -18,6 +18,10 @@ class CommonController extends Controller
         return view('listview', compact('data'));
 
     }
+
+    function test() {
+    	
+    }
 }
 
 //main branch code
