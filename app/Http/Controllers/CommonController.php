@@ -19,9 +19,11 @@ class CommonController extends Controller
 
     }
 
-    function test () {
+    function test() {
     	
     }
+    
 }
 
 //  beta testing code
+//main branch code
